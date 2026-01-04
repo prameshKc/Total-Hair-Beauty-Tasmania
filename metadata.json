@@ -1,0 +1,7 @@
+{
+  "name": "Total Hair & Beauty Tasmania",
+  "description": "A premium wholesale beauty and hair supply website with an AI-powered professional consultant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
